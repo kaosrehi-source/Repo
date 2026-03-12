@@ -1,11 +1,19 @@
 {
-  "name": "MyTheme",
-  "description": "Custom background theme",
+  "spec": 2,
+  "name": "Custom Blur Theme",
+  "description": "Background with strong blur",
   "authors": [
     {
-      "name": "Rehi
+      "name": "Rehi"
+    }
   ],
   "background": {
-    "url": "[Image](https://github.com/user-attachments/assets/67abf870-7a7f-42da-824b-eb9754d2a9cf)",
-    "blur_radius": 0,
-    "overlay_alpha": 0
+    "url": "https://github.com/user-attachments/assets/67abf870-7a7f-42da-824b-eb9754d2a9cf",
+    "blur_radius": 100,
+    "overlay_alpha": 120
+  },
+  "colors": {
+    "primary": "#5865F2",
+    "accent": "#5865F2"
+  }
+}
