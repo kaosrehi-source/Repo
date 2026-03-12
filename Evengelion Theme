@@ -1,12 +1,11 @@
 {
-  "name": "Evengelion_theme",
-  "description": "EVA_THİRD_İMPACT",
+  "name": "MyTheme",
+  "description": "Custom background theme",
   "authors": [
     {
-      "name": "RHN
+      "name": "Rehi
   ],
   "background": {
     "url": "[Image](https://github.com/user-attachments/assets/67abf870-7a7f-42da-824b-eb9754d2a9cf)",
     "blur_radius": 0,
     "overlay_alpha": 0
-  
